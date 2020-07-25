@@ -1,0 +1,2 @@
+# Peer-graded-Assignment-Segmenting-and-Clustering-Neighborhoods-in-Toronto
+In this project, it is required to explore, segment, and cluster the neighborhoods in the city of Toronto. What is interesting about the field of data science is that each project can be challenging in its unique way, so we need to learn to be agile and refine the skill to learn new libraries and tools quickly depending on the project.
